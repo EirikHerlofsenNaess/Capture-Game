@@ -20,7 +20,6 @@ GREEN = (0, 255, 0)
 LIGHTBLUE = (100, 100, 255)
 GREY = (142, 142, 142)
 
-
 # Initiere pygame
 pygame.init()
 
